@@ -1,1 +1,1 @@
-# lab-ex-2
+This is the second exercise for my Adt Lab
